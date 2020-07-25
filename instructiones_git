@@ -1,0 +1,12 @@
+git add file
+git commit -m "I added this file"
+git remote add origin https://github.com/jesolisp/CS2020_ALG.git
+git pull origin master --allow-unrelated-histories
+git push -u origin master
+
+git init
+git add file
+git commit -m "Add all my files"
+git remote add origin https://github.com/USER_NAME/FOLDER_NAME
+git pull origin master --allow-unrelated-histories
+git push origin master
