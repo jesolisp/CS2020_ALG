@@ -2,4 +2,4 @@
 .directory
 
 # ignore an entire directory
-.ipynb_checkpoints
+.ipynb_checkpoints/*
